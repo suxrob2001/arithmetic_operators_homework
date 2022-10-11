@@ -7,3 +7,9 @@
 #Print the answer.
  
 #Print the number.
+nummber=9
+nummber= nummber/2
+
+answer= nummber-int(nummber)
+print (answer)
+
