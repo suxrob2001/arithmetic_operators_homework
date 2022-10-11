@@ -7,10 +7,10 @@
 #Print the answer.
  
 #Print the number.
-nummber=9
-nummber= nummber/2
+number=9
+number= number/2
 
-answer= nummber-int(nummber)
+answer= number-int(number)
 print (answer)
-print (nummber)
+print (number)
 
