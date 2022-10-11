@@ -12,4 +12,5 @@ nummber= nummber/2
 
 answer= nummber-int(nummber)
 print (answer)
+print (nummber)
 
